@@ -1,6 +1,3 @@
-@Evently.API_HostAddress = http://localhost:5172
-
-GET {{Evently.API_HostAddress}}/weatherforecast/
-Accept: application/json
+@Evently.Api_HostAddress = http://localhost:5000
 
 ###
